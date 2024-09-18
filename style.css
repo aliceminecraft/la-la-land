@@ -1,1 +1,35 @@
+body {
+    color: rgb(45, 33, 97);
+    background: rgb(0, 12, 82);
+}
 
+header {
+    border-bottom: solid 2px rgb(220, 223, 86);
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(255, 244, 96);
+}
+
+.chamada{
+    background: rgb(161, 215, 247);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+img {
+    height: 200px;
+}
+.fila-videos{
+    display:flex;
+
+}
+.fila{
+    color: rgb(255, 244, 96);
+
+}
